@@ -1,0 +1,67 @@
+//
+//  //  Sobre
+//
+
+↪ Performance é uma área da TI focado no desempenho e otimização de aplicativos, sistema e outros temas tecnológicos.
+
+↪ Em resumo a área aborda práticas, metodologias e ferramentas para garantir a eficiência, e principalmente, experiência do usuário.
+
+↪ Algumas funções de um profissional de performance:
+
+    ↪ 1. Automação.
+
+    ↪ 2. Testes.
+
+    ↪ 3. Monitoramento.
+
+    ↪ 4. Relatórios.
+
+    ↪ 5. SLAs.
+
+    ↪ 6. Gestão de Recuros.
+
+    ↪ 7. Otimização.
+
+
+
+//
+//  //  Mais sobre as funções
+//
+
+↪ Automação.
+
+    ↪ .
+
+↪ Testes.
+
+    ↪ .
+
+↪ Monitoramento.
+
+    ↪ O uso de ferramentas de captura e análise de métricas como:
+
+        ↪ Consumo de CPU e RAM.
+
+        ↪ Tempo de resposta.
+
+        ↪ Vazão (TPS ou requisições por segundo).
+
+        ↪ Erros e exceções.
+
+        ↪ Outros: como rede, uso de disco, I/O.
+
+↪ Relatórios.
+
+    ↪ .
+
+↪ SLAs.
+
+    ↪ .
+
+↪ Gestão de Recuros.
+
+    ↪ .
+
+↪ Otimização.
+
+    ↪ .
