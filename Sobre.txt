@@ -2,25 +2,69 @@
 //  //  Sobre
 //
 
-↪ Performance é uma área da TI focado no desempenho e otimização de aplicativos, sistema e outros temas tecnológicos.
+↪ O que seria performance?
 
-↪ Em resumo a área aborda práticas, metodologias e ferramentas para garantir a eficiência, e principalmente, experiência do usuário.
+    ↪ Performance pode ser resumida a alguns pontos chaves como: eficiência, desempenho ou rendimento.
+
+    ↪ Seria como extrair o máximo possível de algo, desde resolução dos problemas apresentados ao polimento do mesmo.
+
+    ↪ Nota-se: a semelhança entre as palavras "Performance" e "Perfeição", desmonstrando que esse conceito é o mesmo que a busca por melhorias até atingir um outro patamar.
+
+↪ E como isso é aplicado em nossa área?
+
+    ↪ Em TI, Performance é uma área que vai abordar esses mesmos pontos como desempenho e melhorias, porém para os sistemas, aplicativos e outros temas tecnológicos.
+
+    ↪ Para poder conquistar esses objetivos, a área de Performance possui uma vasta abordagem de práticas, metodologias e ferramentas para garantir não só a eficiência, como principalmente a experiência do usuário.
 
 ↪ Algumas funções de um profissional de performance:
 
     ↪ 1. Automação.
 
+        ↪ A criação de scripts para realizar tarefas é extremamente crucial, principalmente para executar o fluxo de uma aplicação. Esse é um ponto que muitos profissionais de TI ficam confuso a respeito: qual seria a diferença entre QA e performance?
+
+        ↪ Há alguns pontos que são semelhantes como a necessidade de ter um script funcional sobre o fluxo, mas as similaridades acabam por aí. 
+
+        ↪ Em QA: é checado a qualidade do software atráves de quesitos funcionais, como checar se o fluxo está correto e atendendo as expectativas de funcionalidades da aplicação.
+
+        ↪ Em performance o fluxo da aplicação será "estressado" utilizando várias cargas de usuários, até encontrar gargalos e, atráves de monitoramento e análises, apontar falhas e possibilidades de melhorias.
+
     ↪ 2. Testes.
+
+        ↪ Através do script automatizado, é possível realizar vários tipos de testes diferentes:
+
+            ↪ Smoke Test: praticamente um teste funcional, onde o script que vai ser utilizado nos próximos testes é verificado se está funcionando corretamente no fluxo, geralmente é simulado de 1 a 10 usuários nesse teste.
+
+            ↪ Teste de Performance: uma vez que o script está funcional é possível realizar esse teste, onde serão feita várias cargas de usuários, aumentadas progressivamente, até entender os limites da aplicação (onde ela é extremamente degradada e não atende os padrões de qualidade).
+
+            ↪ Teste de Carga: também necessitando que o script esteja funcional, nesse teste é simulado uma carga real onde tanto o ambiente quanto configurações simulam um cenário (geralmente o de pico), nele é observado em quanto tempo a aplicação demora para degradar.
 
     ↪ 3. Monitoramento.
 
+        ↪ Durante os testes é extremamente importante utilizar ferramentas para monitorar a aplicação, sendopossível checar informações como consumo de CPU, memória, tempo de resposta e entre outros.
+
+        ↪ Essas informações são analisadas em relação as cargas de usuários, para poder ver qualquer variação nos cenários simulados.
+
     ↪ 4. Relatórios.
+
+        ↪ Depois do teste, a partir do histórico de informações gerados pelas ferramentas, é feito uma análise para poder indentificar os problemas, gargalos e exceções da aplicação.
+
+        ↪ Nessa mesma análise é levantado pontos de melhorias e detalhes dos problemas, além de entender um novo limite sobre a aplicação no estado atual.
 
     ↪ 5. SLAs.
 
-    ↪ 6. Gestão de Recuros.
+        ↪ O SLAs (Service Level Agreement) são contratos formais acertados entre o cliente e o profissional. No questio de performance seria as exigências de qualidade esperados.
+
+        ↪ Com esses acordos é possível definir se um teste atendeu ou não as exigências, exemplos: se o consumo de memória foi como o esperado, tempo de resposta não está mais alto que as expectativas e etc.
+
+    ↪ 6. Gestão de Recursos.
+
+        ↪ Em alguns cenários e através de diversas análises é possível um profissional de performance apontar sugestões de como os recursos podem ser alocados.
+
+        ↪ E também há cenários onde algum elemento não está sendo amplamente consumindo, podendo também apontar esses recursos que podem ser diminuídos, assim afetando positivamente o orçamento da aplicação.
 
     ↪ 7. Otimização.
+
+        ↪ Em aluns cenários críticos o código fonte da aplicação pode também ser analisado em busca de melhorias.
 
 
 
