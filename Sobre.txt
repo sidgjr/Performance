@@ -4,7 +4,7 @@
 
 ↪ O que seria performance?
 
-    ↪ Performance pode ser resumida a alguns pontos-chave como: eficiência, desempenho ou rendimento.
+    ↪ Performance pode ser resumida a alguns pontos-chave como eficiência, desempenho ou rendimento.
 
     ↪ Seria como extrair o máximo possível de algo, desde a resolução dos problemas apresentados até o polimento do mesmo.
 
@@ -26,7 +26,7 @@
 
         ↪ Em QA é checado a qualidade do software através de quesitos funcionais, como checar se o fluxo está correto e atendendo as expectativas de funcionalidades da aplicação.
 
-        ↪ Em performance o fluxo da aplicação será "estressado" utilizando várias cargas de usuários, até encontrar gargalos e, atráves de monitoramento e análises, apontar falhas e possibilidades de melhorias.
+        ↪ Em performance o fluxo da aplicação será "estressado" utilizando várias cargas de usuários, até encontrar gargalos e, através de monitoramento e análises, apontar falhas e possibilidades de melhorias.
 
     ↪ 2. Testes.
 
