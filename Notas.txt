@@ -1,0 +1,27 @@
+↪ teste de performance benificios
+
+    ↪ identificação de gargalos de desempenho
+
+    ↪ qualidade e confiabilidade da aplicação
+
+↪ simulação e cargas de trabalhos reais
+
+↪ prevenção de problemas futuros
+
+↪ melhorar a xp do usuário
+
+↪ consumo excessivo
+
+↪ importancia e como são cruciais
+
+↪ alta qualidade
+
+↪ quando fazer um teste de performance?
+
+↪ cenário de teste
+
+↪ Métricas
+
+↪ requitos par ao teste
+
+↪ consequencias
