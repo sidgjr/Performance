@@ -1,27 +1,39 @@
-↪ teste de performance benificios
+↪ Qual é o nome da aplicação?
 
-    ↪ identificação de gargalos de desempenho
+↪ Possui Mapa de Arquitetura?
 
-    ↪ qualidade e confiabilidade da aplicação
+↪ Possui massa de dados? Se sim, contém dados sensíveis? É massa consumível?
 
-↪ simulação e cargas de trabalhos reais
+↪ Possui monitoramento no Dynatrace? Se sim, possui Dashboard?
 
-↪ prevenção de problemas futuros
+↪ Em que tecnologia foi desenvolvido?
 
-↪ melhorar a xp do usuário
+↪ Qual tipo de servidor de aplicação?
 
-↪ consumo excessivo
+↪ Existem operações que dependem de outras?	
 
-↪ importancia e como são cruciais
+↪ O banco de dados é compartilhado com outras aplicações?
 
-↪ alta qualidade
+↪ Existe algum comportamento conhecido?
 
-↪ quando fazer um teste de performance?
+↪ Existe alguma dependência/premissa para acesso?
 
-↪ cenário de teste
+↪ A infraestrutura é compartilhada? Caso sim, informar quais são as aplicações.
 
-↪ Métricas
+↪ Qual é a quantidade de requisições processadas (segundo, dia ou mês) cenário?
 
-↪ requitos par ao teste
+↪ Tempo de Resposta Ideal/Definido 
 
-↪ consequencias
+↪ Existem horários impeditivos para execução dos testes ?
+
+↪ Ocorrem uploads de arquivos?
+
+↪ Existem considerações a serem levadas em conta a respeito da infraestrutura?
+
+↪ Aplicação restringe acesso para usuários iguais ao mesmo tempo?
+
+↪ A aplicação consome serviços externos? Se sim, quais?
+
+↪ Qual o(s) Banco(s) de dados utilizado
+
+↪ Servidor de banco de dados no ambiente a ser testado

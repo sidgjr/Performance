@@ -1,7 +1,0 @@
-↪ falta mais sobre infraestrutura, apache jmeter...
-
-↪ volumetria
-
-Postman
-
-JMeter
