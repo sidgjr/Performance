@@ -1,0 +1,111 @@
+//
+//  //  Sobre
+//
+
+O que seria performance?
+
+    Performance pode ser resumida a alguns pontos-chave como eficiência, desempenho ou rendimento.
+
+    Seria como extrair o máximo possível de algo, desde a resolução dos problemas apresentados até o polimento do mesmo.
+
+    Nota-se a semelhança entre as palavras "Performance" e "Perfeição", demonstrando que esse conceito é o mesmo que a busca por melhorias até atingir um outro patamar.
+
+E como isso é aplicado em nossa área?
+
+    Em TI, performance é uma área que vai abordar esses mesmos pontos como desempenho e melhorias, porém para os sistemas, aplicativos e outros temas tecnológicos.
+
+    Para poder conquistar esses objetivos, a área de performance possui uma vasta abordagem de práticas, metodologias e ferramentas para garantir não só a eficiência, como principalmente a experiência do usuário.
+
+Algumas funções de um profissional de performance:
+
+    1. Automação.
+
+        A criação de scripts para realizar tarefas é extremamente crucial, principalmente para executar o fluxo de uma aplicação. Esse é um ponto que muitos profissionais de TI ficam confusos a respeito: qual seria a diferença entre QA e performance?
+
+        Há alguns pontos que são semelhantes, como a necessidade de ter um script funcional sobre o fluxo, mas as similaridades acabam por aí. 
+
+        Em QA é checado a qualidade do software através de quesitos funcionais, como checar se o fluxo está correto e atendendo as expectativas de funcionalidades da aplicação.
+
+        Em performance o fluxo da aplicação será "estressado" utilizando várias cargas de usuários, até encontrar gargalos e, através de monitoramento e análises, apontar falhas e possibilidades de melhorias.
+
+    2. Testes.
+
+        Através do script automatizado, é possível realizar vários tipos de testes diferentes:
+
+            Smoke Test: praticamente um teste funcional, onde o script que vai ser utilizado nos próximos testes é verificado se está funcionando corretamente no fluxo, geralmente são simulados de 1 a 10 usuários nesse teste.
+
+            Teste de Performance: uma vez que o script está funcional é possível realizar esse teste, onde serão feita várias cargas de usuários, aumentadas progressivamente, até entender os limites da aplicação (onde ela é extremamente degradada e não atende os padrões de qualidade).
+
+            Teste de Carga: também necessitando que o script esteja funcional, nesse teste é simulado uma carga real onde tanto o ambiente quanto configurações simulam um cenário (geralmente o de pico), nele é observado quanto tempo a aplicação leva para degradar.
+
+    3. Monitoramento.
+
+        Durante os testes é extremamente importante utilizar ferramentas para monitorar a aplicação, sendo possível checar informações como consumo de CPU, memória, tempo de resposta, e entre outros.
+
+        Essas informações são analisadas em relação às cargas de usuários, para poder ver qualquer variação nos cenários simulados.
+
+    4. Relatórios.
+
+        Depois do teste, a partir do histórico de informações gerados pelas ferramentas é feito uma análise para poder identificar os problemas, gargalos e exceções da aplicação.
+
+        Nessa mesma análise são levantado pontos de melhorias e detalhes dos problemas, além de entender um novo limite sobre a aplicação no estado atual.
+
+    5. SLAs.
+
+        O SLAs (Service Level Agreements) são contratos formais acertados entre o cliente e o profissional. No quesito de performance os SLAs seriam as exigências de qualidade esperadas.
+
+        Com esses acordos é possível definir se um teste atendeu ou não as exigências, exemplos: se o consumo de memória foi como o esperado, tempo de resposta não está mais alto que as expectativas e etc.
+
+    6. Gestão de Recursos.
+
+        Em alguns cenários e através de diversas análises é possível um profissional de performance apontar sugestões de como os recursos podem ser melhor alocados.
+
+        E também há cenários onde algum elemento não está sendo amplamente consumido, podendo também apontar esses recursos que podem ser diminuídos, assim afetando positivamente o orçamento da aplicação.
+
+    7. Otimização.
+
+        Em alguns cenários críticos o código fonte da aplicação pode também ser analisado em busca de melhorias.
+
+
+
+//
+//  //  Mais sobre as funções
+//
+
+Automação.
+
+    .
+
+Testes.
+
+    .
+
+Monitoramento.
+
+    O uso de ferramentas de captura e análise de métricas como:
+
+        Consumo de CPU e RAM.
+
+        Tempo de resposta.
+
+        Vazão (TPS ou requisições por segundo).
+
+        Erros e exceções.
+
+        Outros: como rede, uso de disco, I/O.
+
+Relatórios.
+
+    .
+
+SLAs.
+
+    .
+
+Gestão de Recuros.
+
+    .
+
+Otimização.
+
+    .
