@@ -1,0 +1,30 @@
+Feito
+
+    .
+
+Fazendo
+
+    JMeter - Testes de performance
+    https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado
+
+Fazer
+
+    JMETER - Teste de Performance de aplicações Web
+    https://www.udemy.com/course/jmeter-teste-de-performance-de-aplicacoes-web
+
+Adicionar
+
+    Learn JMETER from Scratch on Live Apps -Performance Testing
+    https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool
+
+    JMETER - Master Performance & Load Testing(Basics + Advance)
+    https://www.udemy.com/course/jmeter-tutorial
+
+    Learn JMeter - Performance and API Testing
+    https://www.udemy.com/course/learn-jmeter-m
+
+    Wanna Learn JMeter ?Get Training by Industry Experts-23+hrs
+    https://www.udemy.com/course/basic-to-expert-jmeter
+
+    Performance Testing Course with JMeter and Blazemeter
+    https://www.udemy.com/course/performance-testing-course-with-jmeter-and-blazemeter

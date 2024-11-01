@@ -2,8 +2,10 @@ Recuperar Acessos
 
 Ler emails
 
-Reaproveitar docs (Performance)
-
 Estudar Performance
+
+    Estudar JMeter
+
+Reaproveitar docs (Performance)
 
 Estudar Java
